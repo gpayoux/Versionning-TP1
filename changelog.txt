@@ -1,0 +1,4 @@
+91935a9 display copyright
+e9f410d Add find healer
+77e84d6 Add build time
+74017d3 Initial commit
